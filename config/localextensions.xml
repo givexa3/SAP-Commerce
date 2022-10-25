@@ -74,6 +74,10 @@
 												
 		<!-- <extension name="yhacext" />-->
 
+		
+		<!-- Your new extension -->
+   		<extension dir="../custom/concerttours"/> 
+
 
 	</extensions>
 </hybrisconfig>
