@@ -78,6 +78,9 @@
 		<!-- Your new extension -->
    		<extension dir="../custom/concerttours"/> 
 
+		<!-- Your new extension -->
+   		<extension dir="../custom/trainingbackoffice"/> 
+
 
 	</extensions>
 </hybrisconfig>

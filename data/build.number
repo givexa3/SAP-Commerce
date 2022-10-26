@@ -1,6 +1,6 @@
 #Ant properties
-#Tue Oct 25 22:40:59 GET 2022
-build.builddate=20221025 2240
+#Wed Oct 26 15:11:34 GET 2022
+build.builddate=20221026 1511
 build.releasedate=20210707 2017
 build.vendor=hybris
 build.version=1808.40
